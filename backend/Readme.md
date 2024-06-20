@@ -1,1 +1,1 @@
-broker application to handle pub sub queues
+The frontend application provides an intuitive user interface for both publishers and subscribers. Publishers can log in, compose, and post news articles using a user-friendly dashboard, selecting specific topics from a dropdown menu. Subscribers can create accounts, set their preferences, and receive real-time notifications for news updates tailored to their interests. The frontend is built using React, JavaScript, HTML, and CSS, ensuring a responsive and seamless user experience.
